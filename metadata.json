@@ -1,0 +1,6 @@
+{
+  "name": "ConsensusAI - Orquestador Multi-IA & Síntesis Magistral",
+  "description": "Plataforma personalizada para interconectar múltiples IAs, comparar respuestas en paralelo, contrastar divergencias y sintetizar automáticamente la mejor variante definitiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
